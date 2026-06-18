@@ -14,18 +14,6 @@ We don't just talk cutting edge—we live it. Kodegas crafts applications that:
 - Fuse data, design, and user empathy to solve genuine problems.
 
 ---
-
-## Our Philosophical North Star
-
-Technology needs to be curious, not obscure. We lean into the weirdness of the world. Our philosophy:
-
-- Build tools that think, but don’t alienate.
-- Let data inform, but creativity ignite.
-- Use AI and IoT as bridges, not black boxes.
-- Favor open systems, not locked gates.
-
----
-
 ## Projects in Focus
 
 ### **WeGuard**
@@ -33,14 +21,7 @@ Technology needs to be curious, not obscure. We lean into the weirdness of the w
 - Get organic and expert-backed treatment suggestions.
 - Access a disease database, farming tips, and live data (like local weather).
 - Designed to support farmers with 24/7 reliability and ~90% diagnosis accuracy.
-
-*(Details in the WeGuard README.)*
-
-### (Your next project here…)
-- Maybe a smarter greenhouse dashboard?
-- A mobile alert system for IoT-based soil monitoring?
-- You tell me, we prototype, we build.
-
+  
 ---
 
 ## How to Join the Creative Chaos
